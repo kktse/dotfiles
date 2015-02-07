@@ -38,8 +38,6 @@ source $ZSH/oh-my-zsh.sh
 
 # Customize to your needs...
 # Custom paths
-export PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/media/atzerok/hdd_storage/dev/beaglebone/setup-scripts/build/tmp-angstrom_v2012_12-eglibc/sysroots/x86_64-linux/usr/bin/armv7a-vfp-neon-angstrom-linux-gnueabi 
-export DISK=/media/atzerok/hdd_storage
 
 # Autoload screen
 if [[ $STY = '' ]] then screen -xR; fi
